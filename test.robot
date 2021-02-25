@@ -18,5 +18,5 @@ Test login Facebook failed
 	Input Text  id=pass  123
 	Submit Form
 	Wait Until Page Contains  Meechai Nuphit
-	Capture Page Screenshot  login-success.png
+	Capture Page Screenshot  login-failed.png
 	[Teardown]  Close Browser
